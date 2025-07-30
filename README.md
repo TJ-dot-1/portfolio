@@ -6,11 +6,11 @@ Full Stack Developer | Open Source Contributor | Problem Solver
 🔗 Portfolio: portfolio-eight-swart-29.vercel.app
 🛠️ Tech Stack
 
-    Frontend: React, Next.js, JavaScript, HTML/CSS, Tailwind
+    Frontend: React, Next.js, JavaScript, HTML/CSS.
 
     Backend: Node.js, Express, Python, MongoDB
 
-    Tools: Git, Vercel, Vs
+    Tools: Git, Vercel, Vs Code
 
     Learning: AI/ML, DevOps
 
@@ -24,9 +24,6 @@ Full Stack Developer | Open Source Contributor | Problem Solver
 
         Tech | Javascript
 
-📌 GitHub Stats
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark
 📫 Let’s Connect
 
     💼 https://www.linkedin.com/in/josiah-nyakwara/
