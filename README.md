@@ -1,32 +1,65 @@
-👋 Hi, I'm Josiah
+# Josiah Nyakwara - Developer Portfolio
 
-Full Stack Developer | Open Source Contributor | Problem Solver
+A clean, responsive portfolio website built with **vanilla HTML and CSS** to showcase my skills, projects, and professional information.
 
-📍 Based in Nairobi, Kenya.
-🔗 Portfolio: portfolio-eight-swart-29.vercel.app
-🛠️ Tech Stack
+## 🔥 Features
 
-    Frontend: React, Next.js, JavaScript, HTML/CSS.
+- **100% Vanilla Code** (No frameworks or libraries)
+- **Fully Responsive** (Works on mobile, tablet & desktop)
+- **Modern UI** with smooth animations
+- **Dark/Light** color scheme
+- **Interactive Elements**:
+  - Mobile-friendly navigation
+  - Animated hover effects
+- **Sections**:
+  - Hero banner
+  - About me
+  - Skills
+  - Projects
+  - CV/Resume
+  - Contact info
 
-    Backend: Node.js, Express, Python, MongoDB
+## 🛠️ Technologies Used
 
-    Tools: Git, Vercel, Vs Code
+- **Frontend**: 
+  HTML5
+  CSS3
+   
+- **Tools**: 
+  VS Code
+  Git
+  Font Awesome]
 
-    Learning: AI/ML, DevOps
+## 🚀 Live Demo
 
-🌟 Featured Projects
+Check out the live version: https://portfolio-eight-swart-29.vercel.app/  
 
-    Liqour Store – Online shop for ordering liqour.
+## 📁 Project Structure
+portfolio/
+├── index.html # Main HTML file
+├── styles.css # All CSS styles
+├── josiah.jpeg # Profile image
+├── cv-software.pdf # Downloadable CV
+├── projects screenshots
+└── README.md # This file
 
-        Tech | Javascript.
 
-    TJ Poultry Hub – Online shop for poultry equipments.
+## 🧑‍💻 Development Setup
 
-        Tech | Javascript
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/TJ-dot-1/portfolio.git
+   cd portfolio
 
-📫 Let’s Connect
 
-    💼 https://www.linkedin.com/in/josiah-nyakwara/
+   📜 License
 
-    ✉️ Josiejosiah89@gmail.com
+This project is licensed under the MIT License - see the LICENSE file for details.
+📬 Contact
+
+    Email: josiejosiah29@gmail.com
+
+    LinkedIn: Josiah Nyakwara
+
+    GitHub: @TJ-dot-1
 
